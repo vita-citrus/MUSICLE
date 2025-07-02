@@ -1,7 +1,7 @@
-# MUSICLE
-## CLI - based Music Library Manager
+#MUSICLE
+##CLI - based Music Library Manager
 
-# Installation
+#Installation
 > go install github.com/vita-citrus/MUSICLE@latest
 
 Requires Go 1.24+
